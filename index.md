@@ -30,7 +30,7 @@ https://jopsnow.github.io/50cc/data
 #### Documents (xlsx)
 ```
 # available country codes: ph, us, au, nz
-data/documents/[country_code].xlsx
+/documents/[country_code].xlsx
 ```
 
 ### Contributor
