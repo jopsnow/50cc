@@ -1,4 +1,4 @@
-![Image](https://i.imgur.com/y013qLC.png)
+![Image](https://i.imgur.com/oLX7LK1.png)
 ## Documentation
 
 ### Base URL
