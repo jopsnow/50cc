@@ -29,7 +29,7 @@ data/stat.json
 
 #### Documents (xlsx)
 ```
-e.g. ph.xlsx
+# available country codes: ph, us, au, nz
 data/documents/[country_code].xlsx
 ```
 
