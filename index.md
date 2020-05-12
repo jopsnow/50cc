@@ -27,6 +27,11 @@ data/stat.json
 <coming soon>
 ```
 
+#### Documents (xlsx)
+```
+e.g. ph.xlsx
+data/documents/[country_code].xlsx
+```
 
 ### Contributor
 Jop Bardilas (jpprjn@yahoo.com)
