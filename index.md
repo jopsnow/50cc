@@ -1,4 +1,4 @@
-![Image](https://i.imgur.com/1NW8tPA.png)
+![Image](https://i.imgur.com/y013qLC.png)
 ## Documentation
 
 You can use the [editor on GitHub](https://github.com/jopsnow/50cc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
