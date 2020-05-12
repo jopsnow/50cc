@@ -3,28 +3,28 @@
 
 ### Base URL
 ```
-https://jopsnow.github.io/50cc/
+https://jopsnow.github.io/50cc/data
 ```
 ### Get Stats
 ```
-data/stat.json
+/stat.json
 ```
 ### Countries
 #### Philippines
 ```
-<coming soon>
+/country/ph.json
 ```
 #### USA
 ```
-<coming soon>
+/country/us.json
 ```
 #### Australia
 ```
-<coming soon>
+/country/au.json
 ```
 #### New Zealand
 ```
-<coming soon>
+/country/nz.json
 ```
 
 #### Documents (xlsx)
