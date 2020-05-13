@@ -34,6 +34,6 @@ https://jopsnow.github.io/50cc/data
 /documents/[country_code].xlsx
 ```
 
-### Contributor
-Jop Bardilas (jpprjn@yahoo.com)
+### Link
+[Website](http://165.22.53.61/linkscraper/)
 
