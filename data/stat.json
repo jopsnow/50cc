@@ -1,9 +1,9 @@
 {
   "au_list": [
-    1437, 
-    2697, 
-    53.28142380422692, 
-    99
+    1446, 
+    2706, 
+    53.43680709534368, 
+    98
   ], 
   "biz_list": [
     [
@@ -12,7 +12,7 @@
         "office": "Alabang"
       }, 
       {
-        "count": 119, 
+        "count": 121, 
         "office": "Manila-Ortigas Center"
       }
     ], 
@@ -64,7 +64,7 @@
     ], 
     [
       {
-        "count": 206, 
+        "count": 207, 
         "office": "Brisbane"
       }, 
       {
@@ -72,7 +72,7 @@
         "office": "Central Coast and Newcastle"
       }, 
       {
-        "count": 131, 
+        "count": 132, 
         "office": "Gold Coast"
       }, 
       {
@@ -84,15 +84,15 @@
         "office": "North Queensland"
       }, 
       {
-        "count": 34, 
+        "count": 37, 
         "office": "Sunshine Coast"
       }, 
       {
-        "count": 240, 
+        "count": 241, 
         "office": "Sydney"
       }, 
       {
-        "count": 24, 
+        "count": 22, 
         "office": "Tasmania"
       }
     ], 
@@ -102,7 +102,7 @@
         "office": "Auckland - Ellerslie"
       }, 
       {
-        "count": 458, 
+        "count": 462, 
         "office": "Auckland - North Shore"
       }, 
       {
@@ -110,11 +110,11 @@
         "office": "Bay of Plenty"
       }, 
       {
-        "count": 102, 
+        "count": 101, 
         "office": "Christchurch & South Island"
       }, 
       {
-        "count": 11, 
+        "count": 0, 
         "office": "Dunedin"
       }, 
       {
@@ -122,11 +122,11 @@
         "office": "Hawke's Bay & Central Plateau"
       }, 
       {
-        "count": 11, 
+        "count": 0, 
         "office": "LINK Enterprise"
       }, 
       {
-        "count": 11, 
+        "count": 0, 
         "office": "Nelson"
       }, 
       {
@@ -134,15 +134,15 @@
         "office": "Northland"
       }, 
       {
-        "count": 17, 
+        "count": 0, 
         "office": "Queenstown Lakes"
       }, 
       {
-        "count": 71, 
+        "count": 70, 
         "office": "Waikato"
       }, 
       {
-        "count": 54, 
+        "count": 53, 
         "office": "Wellington"
       }
     ]
@@ -150,34 +150,34 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "50.73"
+      "rate": "50.87"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "32.6"
+      "rate": "32.92"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "30.19"
+      "rate": "30.45"
     }
   ], 
   "nz_list": [
-    1326, 
-    4287, 
-    30.93072078376487, 
-    113
+    1324, 
+    4285, 
+    30.89848308051342, 
+    107
   ], 
   "ph_list": [
-    203, 
-    203, 
+    205, 
+    205, 
     100.0, 
-    29
+    30
   ], 
-  "update_date": "2020-05-17 16:45:02.581629", 
+  "update_date": "2020-05-19 16:00:31.637931", 
   "us_list": [
     481, 
     903, 
     53.266888150609084, 
-    80
+    81
   ]
 }
