@@ -1,0 +1,183 @@
+{
+  "au_list": [
+    1446, 
+    2706, 
+    53.43680709534368, 
+    98
+  ], 
+  "biz_list": [
+    [
+      {
+        "count": 44, 
+        "office": "Alabang"
+      }, 
+      {
+        "count": 121, 
+        "office": "Manila-Ortigas Center"
+      }
+    ], 
+    [
+      {
+        "count": 21, 
+        "office": "Dallas"
+      }, 
+      {
+        "count": 4, 
+        "office": "Fort Worth"
+      }, 
+      {
+        "count": 0, 
+        "office": "Idaho"
+      }, 
+      {
+        "count": 254, 
+        "office": "Los Angeles"
+      }, 
+      {
+        "count": 32, 
+        "office": "New York City"
+      }, 
+      {
+        "count": 16, 
+        "office": "Pennsylvania East"
+      }, 
+      {
+        "count": 0, 
+        "office": "Phoenix"
+      }, 
+      {
+        "count": 33, 
+        "office": "Raleigh"
+      }, 
+      {
+        "count": 19, 
+        "office": "San Diego"
+      }, 
+      {
+        "count": 74, 
+        "office": "Silicon Valley"
+      }, 
+      {
+        "count": 25, 
+        "office": "St Louis"
+      }
+    ], 
+    [
+      {
+        "count": 207, 
+        "office": "Brisbane"
+      }, 
+      {
+        "count": 32, 
+        "office": "Central Coast and Newcastle"
+      }, 
+      {
+        "count": 132, 
+        "office": "Gold Coast"
+      }, 
+      {
+        "count": 780, 
+        "office": "Melbourne (formerly KLEMMS)"
+      }, 
+      {
+        "count": 0, 
+        "office": "North Queensland"
+      }, 
+      {
+        "count": 37, 
+        "office": "Sunshine Coast"
+      }, 
+      {
+        "count": 241, 
+        "office": "Sydney"
+      }, 
+      {
+        "count": 22, 
+        "office": "Tasmania"
+      }
+    ], 
+    [
+      {
+        "count": 455, 
+        "office": "Auckland - Ellerslie"
+      }, 
+      {
+        "count": 462, 
+        "office": "Auckland - North Shore"
+      }, 
+      {
+        "count": 126, 
+        "office": "Bay of Plenty"
+      }, 
+      {
+        "count": 101, 
+        "office": "Christchurch & South Island"
+      }, 
+      {
+        "count": 0, 
+        "office": "Dunedin"
+      }, 
+      {
+        "count": 66, 
+        "office": "Hawke's Bay & Central Plateau"
+      }, 
+      {
+        "count": 0, 
+        "office": "LINK Enterprise"
+      }, 
+      {
+        "count": 0, 
+        "office": "Nelson"
+      }, 
+      {
+        "count": 12, 
+        "office": "Northland"
+      }, 
+      {
+        "count": 0, 
+        "office": "Queenstown Lakes"
+      }, 
+      {
+        "count": 70, 
+        "office": "Waikato"
+      }, 
+      {
+        "count": 53, 
+        "office": "Wellington"
+      }
+    ]
+  ], 
+  "currency_rates": [
+    {
+      "currencies": "aud/php", 
+      "rate": "50.87"
+    }, 
+    {
+      "currencies": "usd/php", 
+      "rate": "32.92"
+    }, 
+    {
+      "currencies": "nzd/php", 
+      "rate": "30.45"
+    }
+  ], 
+  "nz_list": [
+    1324, 
+    4285, 
+    30.89848308051342, 
+    107
+  ], 
+  "ph_list": [
+    205, 
+    205, 
+    100.0, 
+    30
+  ], 
+  "update_date": "2020-05-19 16:00:31.637931", 
+  "us_list": [
+    481, 
+    903, 
+    53.266888150609084, 
+    81
+  ]
+}
