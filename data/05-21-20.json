@@ -1,8 +1,8 @@
 {
     "au_list": [
-      1436, 
-      2697, 
-      53.24434556915091, 
+      1434, 
+      2695, 
+      53.20964749536178, 
       98
     ], 
     "biz_list": [
@@ -30,7 +30,7 @@
           "office": "Idaho"
         }, 
         {
-          "count": 253, 
+          "count": 254, 
           "office": "Los Angeles"
         }, 
         {
@@ -64,7 +64,7 @@
       ], 
       [
         {
-          "count": 207, 
+          "count": 206, 
           "office": "Brisbane"
         }, 
         {
@@ -72,11 +72,11 @@
           "office": "Central Coast and Newcastle"
         }, 
         {
-          "count": 130, 
+          "count": 129, 
           "office": "Gold Coast"
         }, 
         {
-          "count": 773, 
+          "count": 772, 
           "office": "Melbourne (formerly KLEMMS)"
         }, 
         {
@@ -98,11 +98,11 @@
       ], 
       [
         {
-          "count": 456, 
+          "count": 452, 
           "office": "Auckland - Ellerslie"
         }, 
         {
-          "count": 464, 
+          "count": 463, 
           "office": "Auckland - North Shore"
         }, 
         {
@@ -110,7 +110,7 @@
           "office": "Bay of Plenty"
         }, 
         {
-          "count": 103, 
+          "count": 102, 
           "office": "Christchurch & South Island"
         }, 
         {
@@ -138,7 +138,7 @@
           "office": "Queenstown Lakes"
         }, 
         {
-          "count": 68, 
+          "count": 69, 
           "office": "Waikato"
         }, 
         {
@@ -150,34 +150,34 @@
     "currency_rates": [
       {
         "currencies": "aud/php", 
-        "rate": "50.76"
+        "rate": "50.6"
       }, 
       {
         "currencies": "usd/php", 
-        "rate": "33.16"
+        "rate": "33.3"
       }, 
       {
         "currencies": "nzd/php", 
-        "rate": "30.97"
+        "rate": "31.05"
       }
     ], 
     "nz_list": [
-      1328, 
-      4289, 
-      30.962928421543484, 
+      1323, 
+      4284, 
+      30.88235294117647, 
       107
     ], 
     "ph_list": [
       205, 
       205, 
       100.0, 
-      31
+      30
     ], 
-    "update_date": "2020-05-23 12:37:03.789201", 
+    "update_date": "2020-05-21 16:23:03.908964", 
     "us_list": [
-      477, 
-      899, 
-      53.058954393770854, 
+      478, 
+      900, 
+      53.111111111111114, 
       81
     ]
   }
