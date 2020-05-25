@@ -1,8 +1,8 @@
 {
     "au_list": [
       1436, 
-      2698, 
-      53.22461082283173, 
+      2697, 
+      53.24434556915091, 
       98
     ], 
     "biz_list": [
@@ -12,7 +12,7 @@
           "office": "Alabang"
         }, 
         {
-          "count": 120, 
+          "count": 121, 
           "office": "Manila-Ortigas Center"
         }
       ], 
@@ -76,7 +76,7 @@
           "office": "Gold Coast"
         }, 
         {
-          "count": 775, 
+          "count": 773, 
           "office": "Melbourne (formerly KLEMMS)"
         }, 
         {
@@ -88,11 +88,11 @@
           "office": "Sunshine Coast"
         }, 
         {
-          "count": 242, 
+          "count": 241, 
           "office": "Sydney"
         }, 
         {
-          "count": 21, 
+          "count": 22, 
           "office": "Tasmania"
         }
       ], 
@@ -110,7 +110,7 @@
           "office": "Bay of Plenty"
         }, 
         {
-          "count": 102, 
+          "count": 103, 
           "office": "Christchurch & South Island"
         }, 
         {
@@ -130,7 +130,7 @@
           "office": "Nelson"
         }, 
         {
-          "count": 11, 
+          "count": 10, 
           "office": "Northland"
         }, 
         {
@@ -163,17 +163,17 @@
     ], 
     "nz_list": [
       1328, 
-      4287, 
-      30.97737345463028, 
+      4289, 
+      30.962928421543484, 
       107
     ], 
     "ph_list": [
-      204, 
-      204, 
+      205, 
+      205, 
       100.0, 
       31
     ], 
-    "update_date": "2020-05-25 16:22:03.794421", 
+    "update_date": "2020-05-23 12:37:03.789201", 
     "us_list": [
       477, 
       899, 
