@@ -1,28 +1,28 @@
 {
     "au_list": [
-      1405, 
-      2667, 
-      52.6809148856393, 
+      1436, 
+      2698, 
+      53.22461082283173, 
       98
     ], 
     "biz_list": [
       [
         {
-          "count": 88, 
+          "count": 44, 
           "office": "Alabang"
         }, 
         {
-          "count": 236, 
+          "count": 120, 
           "office": "Manila-Ortigas Center"
         }
       ], 
       [
         {
-          "count": 42, 
+          "count": 21, 
           "office": "Dallas"
         }, 
         {
-          "count": 8, 
+          "count": 4, 
           "office": "Fort Worth"
         }, 
         {
@@ -30,15 +30,15 @@
           "office": "Idaho"
         }, 
         {
-          "count": 504, 
+          "count": 253, 
           "office": "Los Angeles"
         }, 
         {
-          "count": 64, 
+          "count": 32, 
           "office": "New York City"
         }, 
         {
-          "count": 32, 
+          "count": 16, 
           "office": "Pennsylvania East"
         }, 
         {
@@ -46,37 +46,37 @@
           "office": "Phoenix"
         }, 
         {
-          "count": 66, 
+          "count": 33, 
           "office": "Raleigh"
         }, 
         {
-          "count": 32, 
+          "count": 16, 
           "office": "San Diego"
         }, 
         {
-          "count": 150, 
+          "count": 75, 
           "office": "Silicon Valley"
         }, 
         {
-          "count": 56, 
+          "count": 25, 
           "office": "St Louis"
         }
       ], 
       [
         {
-          "count": 416, 
+          "count": 207, 
           "office": "Brisbane"
         }, 
         {
-          "count": 58, 
+          "count": 32, 
           "office": "Central Coast and Newcastle"
         }, 
         {
-          "count": 260, 
+          "count": 130, 
           "office": "Gold Coast"
         }, 
         {
-          "count": 1548, 
+          "count": 775, 
           "office": "Melbourne (formerly KLEMMS)"
         }, 
         {
@@ -84,33 +84,33 @@
           "office": "North Queensland"
         }, 
         {
-          "count": 74, 
+          "count": 37, 
           "office": "Sunshine Coast"
         }, 
         {
-          "count": 424, 
+          "count": 242, 
           "office": "Sydney"
         }, 
         {
-          "count": 44, 
+          "count": 21, 
           "office": "Tasmania"
         }
       ], 
       [
         {
-          "count": 930, 
+          "count": 456, 
           "office": "Auckland - Ellerslie"
         }, 
         {
-          "count": 868, 
+          "count": 464, 
           "office": "Auckland - North Shore"
         }, 
         {
-          "count": 256, 
+          "count": 126, 
           "office": "Bay of Plenty"
         }, 
         {
-          "count": 198, 
+          "count": 102, 
           "office": "Christchurch & South Island"
         }, 
         {
@@ -118,7 +118,7 @@
           "office": "Dunedin"
         }, 
         {
-          "count": 136, 
+          "count": 66, 
           "office": "Hawke's Bay & Central Plateau"
         }, 
         {
@@ -130,7 +130,7 @@
           "office": "Nelson"
         }, 
         {
-          "count": 22, 
+          "count": 11, 
           "office": "Northland"
         }, 
         {
@@ -138,11 +138,11 @@
           "office": "Queenstown Lakes"
         }, 
         {
-          "count": 134, 
+          "count": 68, 
           "office": "Waikato"
         }, 
         {
-          "count": 108, 
+          "count": 54, 
           "office": "Wellington"
         }
       ]
@@ -150,34 +150,34 @@
     "currency_rates": [
       {
         "currencies": "aud/php", 
-        "rate": "50.49"
+        "rate": "50.76"
       }, 
       {
         "currencies": "usd/php", 
-        "rate": "33.71"
+        "rate": "33.16"
       }, 
       {
         "currencies": "nzd/php", 
-        "rate": "31.48"
+        "rate": "30.97"
       }
     ], 
     "nz_list": [
-      1340, 
-      4303, 
-      31.14106437369277, 
+      1328, 
+      4287, 
+      30.97737345463028, 
       107
     ], 
     "ph_list": [
-      202, 
-      202, 
+      204, 
+      204, 
       100.0, 
-      32
+      31
     ], 
-    "update_date": "2020-05-30 17:21:39.989570", 
+    "update_date": "2020-05-25 16:22:03.794421", 
     "us_list": [
-      479, 
-      901, 
-      53.16315205327414, 
+      477, 
+      899, 
+      53.058954393770854, 
       81
     ]
   }
