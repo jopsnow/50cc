@@ -12,7 +12,7 @@
         "office": "Alabang"
       }, 
       {
-        "count": 121, 
+        "count": 122, 
         "office": "Manila-Ortigas Center"
       }
     ], 
@@ -150,15 +150,15 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "50.33"
+      "rate": "50.18"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "33.93"
+      "rate": "34.38"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "31.39"
+      "rate": "31.71"
     }
   ], 
   "nz_list": [
@@ -168,12 +168,12 @@
     107
   ], 
   "ph_list": [
-    205, 
-    205, 
+    206, 
+    206, 
     100.0, 
-    32
+    33
   ], 
-  "update_date": "2020-06-02 14:52:44.846754", 
+  "update_date": "2020-06-03 10:32:31.615226", 
   "us_list": [
     479, 
     901, 
