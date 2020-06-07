@@ -1,8 +1,8 @@
 {
   "au_list": [
-    1435, 
-    2697, 
-    53.2072673340749, 
+    1432, 
+    2695, 
+    53.13543599257885, 
     98
   ], 
   "biz_list": [
@@ -30,7 +30,7 @@
         "office": "Idaho"
       }, 
       {
-        "count": 252, 
+        "count": 251, 
         "office": "Los Angeles"
       }, 
       {
@@ -38,7 +38,7 @@
         "office": "New York City"
       }, 
       {
-        "count": 16, 
+        "count": 17, 
         "office": "Pennsylvania East"
       }, 
       {
@@ -46,7 +46,7 @@
         "office": "Phoenix"
       }, 
       {
-        "count": 33, 
+        "count": 0, 
         "office": "Raleigh"
       }, 
       {
@@ -54,29 +54,29 @@
         "office": "San Diego"
       }, 
       {
-        "count": 75, 
+        "count": 76, 
         "office": "Silicon Valley"
       }, 
       {
-        "count": 28, 
+        "count": 30, 
         "office": "St Louis"
       }
     ], 
     [
       {
-        "count": 207, 
+        "count": 204, 
         "office": "Brisbane"
       }, 
       {
-        "count": 31, 
+        "count": 30, 
         "office": "Central Coast and Newcastle"
       }, 
       {
-        "count": 130, 
+        "count": 129, 
         "office": "Gold Coast"
       }, 
       {
-        "count": 768, 
+        "count": 765, 
         "office": "Melbourne (formerly KLEMMS)"
       }, 
       {
@@ -84,33 +84,33 @@
         "office": "North Queensland"
       }, 
       {
-        "count": 37, 
+        "count": 35, 
         "office": "Sunshine Coast"
       }, 
       {
-        "count": 246, 
+        "count": 245, 
         "office": "Sydney"
       }, 
       {
-        "count": 22, 
+        "count": 24, 
         "office": "Tasmania"
       }
     ], 
     [
       {
-        "count": 465, 
+        "count": 459, 
         "office": "Auckland - Ellerslie"
       }, 
       {
-        "count": 434, 
+        "count": 435, 
         "office": "Auckland - North Shore"
       }, 
       {
-        "count": 128, 
+        "count": 129, 
         "office": "Bay of Plenty"
       }, 
       {
-        "count": 100, 
+        "count": 97, 
         "office": "Christchurch & South Island"
       }, 
       {
@@ -118,7 +118,7 @@
         "office": "Dunedin"
       }, 
       {
-        "count": 68, 
+        "count": 69, 
         "office": "Hawke's Bay & Central Plateau"
       }, 
       {
@@ -138,11 +138,11 @@
         "office": "Queenstown Lakes"
       }, 
       {
-        "count": 67, 
+        "count": 70, 
         "office": "Waikato"
       }, 
       {
-        "count": 54, 
+        "count": 53, 
         "office": "Wellington"
       }
     ]
@@ -150,34 +150,34 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "49.96"
+      "rate": "49.83"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "34.35"
+      "rate": "34.79"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "31.9"
+      "rate": "32.46"
     }
   ], 
   "nz_list": [
-    1341, 
+    1339, 
     4304, 
-    31.157063197026023, 
+    31.110594795539033, 
     107
   ], 
   "ph_list": [
-    208, 
-    208, 
+    207, 
+    207, 
     100.0, 
     33
   ], 
-  "update_date": "2020-06-04 13:53:23.289992", 
+  "update_date": "2020-06-07 17:00:56.962973", 
   "us_list": [
-    479, 
-    901, 
-    53.16315205327414, 
-    81
+    451, 
+    856, 
+    52.68691588785047, 
+    82
   ]
 }
