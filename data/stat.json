@@ -1,8 +1,8 @@
 {
   "au_list": [
-    1432, 
-    2695, 
-    53.13543599257885, 
+    1441, 
+    2705, 
+    53.271719038817004, 
     98
   ], 
   "biz_list": [
@@ -36,7 +36,7 @@
       }, 
       {
         "broker_count": 30, 
-        "count": 251, 
+        "count": 250, 
         "office": "Los Angeles"
       }, 
       {
@@ -65,7 +65,7 @@
         "office": "San Diego"
       }, 
       {
-        "broker_count": 11, 
+        "broker_count": 12, 
         "count": 76, 
         "office": "Silicon Valley"
       }, 
@@ -78,12 +78,12 @@
     [
       {
         "broker_count": 17, 
-        "count": 204, 
+        "count": 208, 
         "office": "Brisbane"
       }, 
       {
         "broker_count": 2, 
-        "count": 30, 
+        "count": 31, 
         "office": "Central Coast and Newcastle"
       }, 
       {
@@ -93,7 +93,7 @@
       }, 
       {
         "broker_count": 31, 
-        "count": 765, 
+        "count": 766, 
         "office": "Melbourne (formerly KLEMMS)"
       }, 
       {
@@ -108,24 +108,24 @@
       }, 
       {
         "broker_count": 28, 
-        "count": 245, 
+        "count": 251, 
         "office": "Sydney"
       }, 
       {
         "broker_count": 5, 
-        "count": 24, 
+        "count": 23, 
         "office": "Tasmania"
       }
     ], 
     [
       {
         "broker_count": 41, 
-        "count": 459, 
+        "count": 460, 
         "office": "Auckland - Ellerslie"
       }, 
       {
         "broker_count": 16, 
-        "count": 435, 
+        "count": 437, 
         "office": "Auckland - North Shore"
       }, 
       {
@@ -135,7 +135,7 @@
       }, 
       {
         "broker_count": 11, 
-        "count": 97, 
+        "count": 98, 
         "office": "Christchurch & South Island"
       }, 
       {
@@ -170,12 +170,12 @@
       }, 
       {
         "broker_count": 6, 
-        "count": 70, 
+        "count": 73, 
         "office": "Waikato"
       }, 
       {
         "broker_count": 6, 
-        "count": 53, 
+        "count": 54, 
         "office": "Wellington"
       }
     ]
@@ -195,9 +195,9 @@
     }
   ], 
   "nz_list": [
-    1339, 
-    4304, 
-    31.110594795539033, 
+    1346, 
+    4311, 
+    31.22245418696358, 
     107
   ], 
   "ph_list": [
@@ -206,11 +206,11 @@
     100.0, 
     33
   ], 
-  "update_date": "2020-06-12 15:06:09.891553", 
+  "update_date": "2020-06-12, 16:59", 
   "us_list": [
-    451, 
-    856, 
-    52.68691588785047, 
-    82
+    450, 
+    855, 
+    52.63157894736842, 
+    83
   ]
 }
