@@ -8,140 +8,173 @@
   "biz_list": [
     [
       {
+        "broker_count": 13, 
         "count": 44, 
         "office": "Alabang"
       }, 
       {
+        "broker_count": 20, 
         "count": 122, 
         "office": "Manila-Ortigas Center"
       }
     ], 
     [
       {
+        "broker_count": 7, 
         "count": 21, 
         "office": "Dallas"
       }, 
       {
+        "broker_count": 1, 
         "count": 4, 
         "office": "Fort Worth"
       }, 
       {
+        "broker_count": 1, 
         "count": 0, 
         "office": "Idaho"
       }, 
       {
+        "broker_count": 30, 
         "count": 251, 
         "office": "Los Angeles"
       }, 
       {
+        "broker_count": 1, 
         "count": 32, 
         "office": "New York City"
       }, 
       {
+        "broker_count": 9, 
         "count": 17, 
         "office": "Pennsylvania East"
       }, 
       {
+        "broker_count": 0, 
         "count": 0, 
         "office": "Phoenix"
       }, 
       {
+        "broker_count": 3, 
         "count": 0, 
         "office": "Raleigh"
       }, 
       {
+        "broker_count": 7, 
         "count": 16, 
         "office": "San Diego"
       }, 
       {
+        "broker_count": 11, 
         "count": 76, 
         "office": "Silicon Valley"
       }, 
       {
+        "broker_count": 12, 
         "count": 30, 
         "office": "St Louis"
       }
     ], 
     [
       {
+        "broker_count": 17, 
         "count": 204, 
         "office": "Brisbane"
       }, 
       {
+        "broker_count": 2, 
         "count": 30, 
         "office": "Central Coast and Newcastle"
       }, 
       {
+        "broker_count": 10, 
         "count": 129, 
         "office": "Gold Coast"
       }, 
       {
+        "broker_count": 31, 
         "count": 765, 
         "office": "Melbourne (formerly KLEMMS)"
       }, 
       {
+        "broker_count": 0, 
         "count": 0, 
         "office": "North Queensland"
       }, 
       {
+        "broker_count": 5, 
         "count": 35, 
         "office": "Sunshine Coast"
       }, 
       {
+        "broker_count": 28, 
         "count": 245, 
         "office": "Sydney"
       }, 
       {
+        "broker_count": 5, 
         "count": 24, 
         "office": "Tasmania"
       }
     ], 
     [
       {
+        "broker_count": 41, 
         "count": 459, 
         "office": "Auckland - Ellerslie"
       }, 
       {
+        "broker_count": 16, 
         "count": 435, 
         "office": "Auckland - North Shore"
       }, 
       {
+        "broker_count": 15, 
         "count": 129, 
         "office": "Bay of Plenty"
       }, 
       {
+        "broker_count": 11, 
         "count": 97, 
         "office": "Christchurch & South Island"
       }, 
       {
+        "broker_count": 0, 
         "count": 0, 
         "office": "Dunedin"
       }, 
       {
+        "broker_count": 9, 
         "count": 69, 
         "office": "Hawke's Bay & Central Plateau"
       }, 
       {
+        "broker_count": 0, 
         "count": 0, 
         "office": "LINK Enterprise"
       }, 
       {
+        "broker_count": 0, 
         "count": 0, 
         "office": "Nelson"
       }, 
       {
+        "broker_count": 3, 
         "count": 11, 
         "office": "Northland"
       }, 
       {
+        "broker_count": 0, 
         "count": 0, 
         "office": "Queenstown Lakes"
       }, 
       {
+        "broker_count": 6, 
         "count": 70, 
         "office": "Waikato"
       }, 
       {
+        "broker_count": 6, 
         "count": 53, 
         "office": "Wellington"
       }
@@ -150,15 +183,15 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "50.05"
+      "rate": "50.13"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "34.75"
+      "rate": "34.64"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "32.53"
+      "rate": "32.45"
     }
   ], 
   "nz_list": [
@@ -173,7 +206,7 @@
     100.0, 
     33
   ], 
-  "update_date": "2020-06-10 12:13:13.841495", 
+  "update_date": "2020-06-12 15:06:09.891553", 
   "us_list": [
     451, 
     856, 
