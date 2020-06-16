@@ -1,16 +1,16 @@
 {
   "au_list": [
-    1440, 
-    2704, 
-    53.25443786982248, 
+    1439, 
+    2705, 
+    53.19778188539741, 
     98, 
-    4
+    7
   ], 
   "biz_list": [
     [
       {
         "broker_count": 12, 
-        "count": 44, 
+        "count": 43, 
         "office": "Alabang"
       }, 
       {
@@ -37,7 +37,7 @@
       }, 
       {
         "broker_count": 30, 
-        "count": 250, 
+        "count": 248, 
         "office": "Los Angeles"
       }, 
       {
@@ -47,7 +47,7 @@
       }, 
       {
         "broker_count": 9, 
-        "count": 17, 
+        "count": 19, 
         "office": "Pennsylvania East"
       }, 
       {
@@ -89,12 +89,12 @@
       }, 
       {
         "broker_count": 10, 
-        "count": 129, 
+        "count": 128, 
         "office": "Gold Coast"
       }, 
       {
         "broker_count": 31, 
-        "count": 768, 
+        "count": 770, 
         "office": "Melbourne (formerly KLEMMS)"
       }, 
       {
@@ -104,12 +104,12 @@
       }, 
       {
         "broker_count": 5, 
-        "count": 34, 
+        "count": 33, 
         "office": "Sunshine Coast"
       }, 
       {
         "broker_count": 28, 
-        "count": 250, 
+        "count": 251, 
         "office": "Sydney"
       }, 
       {
@@ -121,21 +121,21 @@
     [
       {
         "broker_count": 41, 
-        "count": 462, 
+        "count": 461, 
         "office": "Auckland - Ellerslie"
       }, 
       {
         "broker_count": 15, 
-        "count": 436, 
+        "count": 437, 
         "office": "Auckland - North Shore"
       }, 
       {
         "broker_count": 15, 
-        "count": 128, 
+        "count": 129, 
         "office": "Bay of Plenty"
       }, 
       {
-        "broker_count": 10, 
+        "broker_count": 9, 
         "count": 97, 
         "office": "Christchurch & South Island"
       }, 
@@ -145,7 +145,7 @@
         "office": "Dunedin"
       }, 
       {
-        "broker_count": 0, 
+        "broker_count": 8, 
         "count": 69, 
         "office": "Hawke's Bay & Central Plateau"
       }, 
@@ -160,8 +160,8 @@
         "office": "Nelson"
       }, 
       {
-        "broker_count": 0, 
-        "count": 11, 
+        "broker_count": 2, 
+        "count": 10, 
         "office": "Northland"
       }, 
       {
@@ -170,13 +170,13 @@
         "office": "Queenstown Lakes"
       }, 
       {
-        "broker_count": 0, 
+        "broker_count": 6, 
         "count": 71, 
         "office": "Waikato"
       }, 
       {
-        "broker_count": 0, 
-        "count": 54, 
+        "broker_count": 6, 
+        "count": 55, 
         "office": "Wellington"
       }
     ]
@@ -184,37 +184,37 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "50.21"
+      "rate": "50.34"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "34.51"
+      "rate": "34.39"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "32.34"
+      "rate": "32.43"
     }
   ], 
   "nz_list": [
-    1341, 
-    4307, 
-    31.13536104016717, 
-    81, 
-    2
+    1342, 
+    4308, 
+    31.151346332404827, 
+    102, 
+    5
   ], 
   "ph_list": [
-    207, 
-    207, 
+    206, 
+    206, 
     100.0, 
     32, 
     0
   ], 
-  "update_date": "2020-06-15, 14:13", 
+  "update_date": "2020-06-16, 14:13", 
   "us_list": [
     450, 
     855, 
     52.63157894736842, 
     80, 
-    0
+    2
   ]
 }
