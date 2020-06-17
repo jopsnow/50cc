@@ -1,16 +1,16 @@
 {
   "au_list": [
-    1439, 
-    2705, 
-    53.19778188539741, 
-    98, 
-    7
+    1435, 
+    2701, 
+    53.128470936690114, 
+    96, 
+    10
   ], 
   "biz_list": [
     [
       {
         "broker_count": 12, 
-        "count": 43, 
+        "count": 44, 
         "office": "Alabang"
       }, 
       {
@@ -66,7 +66,7 @@
         "office": "San Diego"
       }, 
       {
-        "broker_count": 12, 
+        "broker_count": 11, 
         "count": 76, 
         "office": "Silicon Valley"
       }, 
@@ -78,7 +78,7 @@
     ], 
     [
       {
-        "broker_count": 17, 
+        "broker_count": 16, 
         "count": 206, 
         "office": "Brisbane"
       }, 
@@ -89,12 +89,12 @@
       }, 
       {
         "broker_count": 10, 
-        "count": 128, 
+        "count": 127, 
         "office": "Gold Coast"
       }, 
       {
         "broker_count": 31, 
-        "count": 770, 
+        "count": 771, 
         "office": "Melbourne (formerly KLEMMS)"
       }, 
       {
@@ -108,8 +108,8 @@
         "office": "Sunshine Coast"
       }, 
       {
-        "broker_count": 28, 
-        "count": 251, 
+        "broker_count": 27, 
+        "count": 247, 
         "office": "Sydney"
       }, 
       {
@@ -121,7 +121,7 @@
     [
       {
         "broker_count": 41, 
-        "count": 461, 
+        "count": 455, 
         "office": "Auckland - Ellerslie"
       }, 
       {
@@ -131,7 +131,7 @@
       }, 
       {
         "broker_count": 15, 
-        "count": 129, 
+        "count": 131, 
         "office": "Bay of Plenty"
       }, 
       {
@@ -161,7 +161,7 @@
       }, 
       {
         "broker_count": 2, 
-        "count": 10, 
+        "count": 9, 
         "office": "Northland"
       }, 
       {
@@ -171,7 +171,7 @@
       }, 
       {
         "broker_count": 6, 
-        "count": 71, 
+        "count": 72, 
         "office": "Waikato"
       }, 
       {
@@ -184,11 +184,11 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "50.34"
+      "rate": "50.11"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "34.39"
+      "rate": "34.71"
     }, 
     {
       "currencies": "nzd/php", 
@@ -196,25 +196,25 @@
     }
   ], 
   "nz_list": [
-    1342, 
-    4308, 
-    31.151346332404827, 
+    1338, 
+    4304, 
+    31.087360594795538, 
     102, 
-    5
+    10
   ], 
   "ph_list": [
-    206, 
-    206, 
+    207, 
+    207, 
     100.0, 
     32, 
-    0
+    1
   ], 
-  "update_date": "2020-06-16, 14:13", 
+  "update_date": "2020-06-17, 14:30", 
   "us_list": [
     450, 
     855, 
     52.63157894736842, 
-    80, 
+    79, 
     2
   ]
 }
