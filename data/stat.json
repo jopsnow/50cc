@@ -1,10 +1,10 @@
 {
   "au_list": [
-    1435, 
-    2701, 
-    53.128470936690114, 
+    1445, 
+    2712, 
+    53.28171091445428, 
     96, 
-    10
+    18
   ], 
   "biz_list": [
     [
@@ -15,7 +15,7 @@
       }, 
       {
         "broker_count": 20, 
-        "count": 122, 
+        "count": 120, 
         "office": "Manila-Ortigas Center"
       }
     ], 
@@ -79,7 +79,7 @@
     [
       {
         "broker_count": 16, 
-        "count": 206, 
+        "count": 208, 
         "office": "Brisbane"
       }, 
       {
@@ -89,12 +89,12 @@
       }, 
       {
         "broker_count": 10, 
-        "count": 127, 
+        "count": 129, 
         "office": "Gold Coast"
       }, 
       {
         "broker_count": 31, 
-        "count": 771, 
+        "count": 777, 
         "office": "Melbourne (formerly KLEMMS)"
       }, 
       {
@@ -109,7 +109,7 @@
       }, 
       {
         "broker_count": 27, 
-        "count": 247, 
+        "count": 248, 
         "office": "Sydney"
       }, 
       {
@@ -120,8 +120,8 @@
     ], 
     [
       {
-        "broker_count": 41, 
-        "count": 455, 
+        "broker_count": 42, 
+        "count": 453, 
         "office": "Auckland - Ellerslie"
       }, 
       {
@@ -131,12 +131,12 @@
       }, 
       {
         "broker_count": 15, 
-        "count": 131, 
+        "count": 130, 
         "office": "Bay of Plenty"
       }, 
       {
         "broker_count": 9, 
-        "count": 97, 
+        "count": 93, 
         "office": "Christchurch & South Island"
       }, 
       {
@@ -176,7 +176,7 @@
       }, 
       {
         "broker_count": 6, 
-        "count": 55, 
+        "count": 53, 
         "office": "Wellington"
       }
     ]
@@ -184,37 +184,37 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "50.11"
+      "rate": "50.17"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "34.71"
+      "rate": "34.42"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "32.43"
+      "rate": "32.32"
     }
   ], 
   "nz_list": [
-    1338, 
-    4304, 
-    31.087360594795538, 
-    102, 
-    10
+    1329, 
+    4295, 
+    30.942956926658905, 
+    103, 
+    15
   ], 
   "ph_list": [
-    207, 
-    207, 
+    205, 
+    205, 
     100.0, 
     32, 
     1
   ], 
-  "update_date": "2020-06-18, 13:05", 
+  "update_date": "2020-06-19, 14:35", 
   "us_list": [
     450, 
     855, 
     52.63157894736842, 
     79, 
-    2
+    0
   ]
 }
