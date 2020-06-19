@@ -4,7 +4,7 @@
     2712, 
     53.28171091445428, 
     96, 
-    18
+    15
   ], 
   "biz_list": [
     [
@@ -15,7 +15,7 @@
       }, 
       {
         "broker_count": 20, 
-        "count": 120, 
+        "count": 124, 
         "office": "Manila-Ortigas Center"
       }
     ], 
@@ -79,7 +79,7 @@
     [
       {
         "broker_count": 16, 
-        "count": 208, 
+        "count": 207, 
         "office": "Brisbane"
       }, 
       {
@@ -109,7 +109,7 @@
       }, 
       {
         "broker_count": 27, 
-        "count": 248, 
+        "count": 249, 
         "office": "Sydney"
       }, 
       {
@@ -136,7 +136,7 @@
       }, 
       {
         "broker_count": 9, 
-        "count": 93, 
+        "count": 92, 
         "office": "Christchurch & South Island"
       }, 
       {
@@ -184,32 +184,32 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "50.17"
+      "rate": "50.07"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "34.42"
+      "rate": "34.52"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "32.32"
+      "rate": "32.25"
     }
   ], 
   "nz_list": [
-    1329, 
-    4295, 
-    30.942956926658905, 
+    1328, 
+    4294, 
+    30.926874708896133, 
     103, 
-    15
+    9
   ], 
   "ph_list": [
-    205, 
-    205, 
+    209, 
+    209, 
     100.0, 
     32, 
-    1
+    4
   ], 
-  "update_date": "2020-06-19, 14:35", 
+  "update_date": "2020-06-20, 01:23", 
   "us_list": [
     450, 
     855, 
