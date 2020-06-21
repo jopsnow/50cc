@@ -4,7 +4,7 @@
     2712, 
     53.28171091445428, 
     96, 
-    15
+    1
   ], 
   "biz_list": [
     [
@@ -15,7 +15,7 @@
       }, 
       {
         "broker_count": 20, 
-        "count": 124, 
+        "count": 125, 
         "office": "Manila-Ortigas Center"
       }
     ], 
@@ -37,7 +37,7 @@
       }, 
       {
         "broker_count": 30, 
-        "count": 248, 
+        "count": 249, 
         "office": "Los Angeles"
       }, 
       {
@@ -121,7 +121,7 @@
     [
       {
         "broker_count": 42, 
-        "count": 453, 
+        "count": 449, 
         "office": "Auckland - Ellerslie"
       }, 
       {
@@ -136,7 +136,7 @@
       }, 
       {
         "broker_count": 9, 
-        "count": 92, 
+        "count": 91, 
         "office": "Christchurch & South Island"
       }, 
       {
@@ -161,7 +161,7 @@
       }, 
       {
         "broker_count": 2, 
-        "count": 9, 
+        "count": 8, 
         "office": "Northland"
       }, 
       {
@@ -196,25 +196,25 @@
     }
   ], 
   "nz_list": [
-    1328, 
-    4294, 
-    30.926874708896133, 
+    1323, 
+    4289, 
+    30.84635113079972, 
     103, 
-    9
+    0
   ], 
   "ph_list": [
-    209, 
-    209, 
+    210, 
+    210, 
     100.0, 
     32, 
-    4
+    5
   ], 
-  "update_date": "2020-06-20, 01:23", 
+  "update_date": "2020-06-21, 21:20", 
   "us_list": [
-    450, 
-    855, 
-    52.63157894736842, 
+    451, 
+    856, 
+    52.68691588785047, 
     79, 
-    0
+    1
   ]
 }
