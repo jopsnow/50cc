@@ -1,21 +1,21 @@
 {
   "au_list": [
-    1449, 
-    2716, 
-    53.350515463917525, 
+    1448, 
+    2715, 
+    53.333333333333336, 
     95, 
-    11
+    16
   ], 
   "biz_list": [
     [
       {
         "broker_count": 12, 
-        "count": 44, 
+        "count": 45, 
         "office": "Alabang"
       }, 
       {
-        "broker_count": 20, 
-        "count": 125, 
+        "broker_count": 21, 
+        "count": 126, 
         "office": "Manila-Ortigas Center"
       }
     ], 
@@ -37,7 +37,7 @@
       }, 
       {
         "broker_count": 30, 
-        "count": 248, 
+        "count": 245, 
         "office": "Los Angeles"
       }, 
       {
@@ -79,7 +79,7 @@
     [
       {
         "broker_count": 16, 
-        "count": 207, 
+        "count": 208, 
         "office": "Brisbane"
       }, 
       {
@@ -94,7 +94,7 @@
       }, 
       {
         "broker_count": 31, 
-        "count": 781, 
+        "count": 778, 
         "office": "Melbourne (formerly KLEMMS)"
       }, 
       {
@@ -104,24 +104,24 @@
       }, 
       {
         "broker_count": 5, 
-        "count": 33, 
+        "count": 32, 
         "office": "Sunshine Coast"
       }, 
       {
         "broker_count": 26, 
-        "count": 250, 
+        "count": 251, 
         "office": "Sydney"
       }, 
       {
         "broker_count": 5, 
-        "count": 24, 
+        "count": 25, 
         "office": "Tasmania"
       }
     ], 
     [
       {
         "broker_count": 42, 
-        "count": 453, 
+        "count": 452, 
         "office": "Auckland - Ellerslie"
       }, 
       {
@@ -131,12 +131,12 @@
       }, 
       {
         "broker_count": 15, 
-        "count": 129, 
+        "count": 130, 
         "office": "Bay of Plenty"
       }, 
       {
         "broker_count": 9, 
-        "count": 90, 
+        "count": 92, 
         "office": "Christchurch & South Island"
       }, 
       {
@@ -176,7 +176,7 @@
       }, 
       {
         "broker_count": 6, 
-        "count": 52, 
+        "count": 51, 
         "office": "Wellington"
       }
     ]
@@ -184,37 +184,37 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "50.12"
+      "rate": "50.05"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "34.5"
+      "rate": "34.54"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "32.39"
+      "rate": "32.16"
     }
   ], 
   "nz_list": [
-    1325, 
-    4291, 
-    30.87858308086693, 
+    1326, 
+    4293, 
+    30.887491264849757, 
     103, 
-    12
+    22
   ], 
   "ph_list": [
-    210, 
-    210, 
+    211, 
+    211, 
     100.0, 
-    32, 
+    33, 
     1
   ], 
-  "update_date": "2020-06-24, 12:00", 
+  "update_date": "2020-06-25, 12:44", 
   "us_list": [
-    450, 
-    855, 
-    52.63157894736842, 
+    447, 
+    852, 
+    52.46478873239437, 
     79, 
-    1
+    0
   ]
 }
