@@ -4,13 +4,13 @@
     2715, 
     53.333333333333336, 
     95, 
-    16
+    5
   ], 
   "biz_list": [
     [
       {
         "broker_count": 12, 
-        "count": 45, 
+        "count": 44, 
         "office": "Alabang"
       }, 
       {
@@ -66,8 +66,8 @@
         "office": "San Diego"
       }, 
       {
-        "broker_count": 11, 
-        "count": 76, 
+        "broker_count": 12, 
+        "count": 77, 
         "office": "Silicon Valley"
       }, 
       {
@@ -121,7 +121,7 @@
     [
       {
         "broker_count": 42, 
-        "count": 452, 
+        "count": 454, 
         "office": "Auckland - Ellerslie"
       }, 
       {
@@ -131,7 +131,7 @@
       }, 
       {
         "broker_count": 15, 
-        "count": 130, 
+        "count": 131, 
         "office": "Bay of Plenty"
       }, 
       {
@@ -196,25 +196,25 @@
     }
   ], 
   "nz_list": [
-    1326, 
-    4293, 
-    30.887491264849757, 
+    1328, 
+    4296, 
+    30.91247672253259, 
     103, 
-    22
+    13
   ], 
   "ph_list": [
-    211, 
-    211, 
+    210, 
+    210, 
     100.0, 
     33, 
     1
   ], 
-  "update_date": "2020-06-25, 12:44", 
+  "update_date": "2020-06-25, 17:57", 
   "us_list": [
-    447, 
-    852, 
-    52.46478873239437, 
-    79, 
-    0
+    448, 
+    853, 
+    52.52051582649472, 
+    80, 
+    1
   ]
 }
