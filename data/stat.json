@@ -1,10 +1,10 @@
 {
   "au_list": [
-    1448, 
-    2715, 
-    53.333333333333336, 
+    1455, 
+    2723, 
+    53.43371281674624, 
     95, 
-    5
+    13
   ], 
   "biz_list": [
     [
@@ -72,14 +72,14 @@
       }, 
       {
         "broker_count": 12, 
-        "count": 30, 
+        "count": 31, 
         "office": "St Louis"
       }
     ], 
     [
       {
         "broker_count": 16, 
-        "count": 208, 
+        "count": 213, 
         "office": "Brisbane"
       }, 
       {
@@ -89,12 +89,12 @@
       }, 
       {
         "broker_count": 10, 
-        "count": 128, 
+        "count": 125, 
         "office": "Gold Coast"
       }, 
       {
         "broker_count": 31, 
-        "count": 778, 
+        "count": 783, 
         "office": "Melbourne (formerly KLEMMS)"
       }, 
       {
@@ -109,7 +109,7 @@
       }, 
       {
         "broker_count": 26, 
-        "count": 251, 
+        "count": 252, 
         "office": "Sydney"
       }, 
       {
@@ -121,12 +121,12 @@
     [
       {
         "broker_count": 42, 
-        "count": 454, 
+        "count": 449, 
         "office": "Auckland - Ellerslie"
       }, 
       {
         "broker_count": 15, 
-        "count": 441, 
+        "count": 443, 
         "office": "Auckland - North Shore"
       }, 
       {
@@ -136,7 +136,7 @@
       }, 
       {
         "broker_count": 9, 
-        "count": 92, 
+        "count": 95, 
         "office": "Christchurch & South Island"
       }, 
       {
@@ -146,7 +146,7 @@
       }, 
       {
         "broker_count": 8, 
-        "count": 69, 
+        "count": 70, 
         "office": "Hawke's Bay & Central Plateau"
       }, 
       {
@@ -161,7 +161,7 @@
       }, 
       {
         "broker_count": 2, 
-        "count": 9, 
+        "count": 7, 
         "office": "Northland"
       }, 
       {
@@ -171,12 +171,12 @@
       }, 
       {
         "broker_count": 6, 
-        "count": 72, 
+        "count": 71, 
         "office": "Waikato"
       }, 
       {
         "broker_count": 6, 
-        "count": 51, 
+        "count": 52, 
         "office": "Wellington"
       }
     ]
@@ -184,11 +184,11 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "50.05"
+      "rate": "49.99"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "34.54"
+      "rate": "34.36"
     }, 
     {
       "currencies": "nzd/php", 
@@ -196,25 +196,25 @@
     }
   ], 
   "nz_list": [
-    1328, 
-    4296, 
-    30.91247672253259, 
+    1327, 
+    4295, 
+    30.89639115250291, 
     103, 
-    13
+    15
   ], 
   "ph_list": [
     210, 
     210, 
     100.0, 
     33, 
-    1
+    0
   ], 
-  "update_date": "2020-06-29, 12:30", 
+  "update_date": "2020-06-29, 21:18", 
   "us_list": [
-    448, 
-    853, 
-    52.52051582649472, 
+    449, 
+    854, 
+    52.576112412177984, 
     80, 
-    1
+    3
   ]
 }
