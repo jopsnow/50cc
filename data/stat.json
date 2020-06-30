@@ -1,10 +1,10 @@
 {
   "au_list": [
-    1455, 
-    2723, 
-    53.43371281674624, 
-    95, 
-    13
+    1457, 
+    2726, 
+    53.44827586206897, 
+    96, 
+    20
   ], 
   "biz_list": [
     [
@@ -15,7 +15,7 @@
       }, 
       {
         "broker_count": 21, 
-        "count": 126, 
+        "count": 127, 
         "office": "Manila-Ortigas Center"
       }
     ], 
@@ -36,7 +36,7 @@
         "office": "Idaho"
       }, 
       {
-        "broker_count": 30, 
+        "broker_count": 29, 
         "count": 245, 
         "office": "Los Angeles"
       }, 
@@ -47,7 +47,7 @@
       }, 
       {
         "broker_count": 9, 
-        "count": 19, 
+        "count": 18, 
         "office": "Pennsylvania East"
       }, 
       {
@@ -79,7 +79,7 @@
     [
       {
         "broker_count": 16, 
-        "count": 213, 
+        "count": 211, 
         "office": "Brisbane"
       }, 
       {
@@ -89,12 +89,12 @@
       }, 
       {
         "broker_count": 10, 
-        "count": 125, 
+        "count": 127, 
         "office": "Gold Coast"
       }, 
       {
         "broker_count": 31, 
-        "count": 783, 
+        "count": 785, 
         "office": "Melbourne (formerly KLEMMS)"
       }, 
       {
@@ -113,20 +113,20 @@
         "office": "Sydney"
       }, 
       {
-        "broker_count": 5, 
-        "count": 25, 
+        "broker_count": 6, 
+        "count": 26, 
         "office": "Tasmania"
       }
     ], 
     [
       {
         "broker_count": 42, 
-        "count": 449, 
+        "count": 453, 
         "office": "Auckland - Ellerslie"
       }, 
       {
         "broker_count": 15, 
-        "count": 443, 
+        "count": 444, 
         "office": "Auckland - North Shore"
       }, 
       {
@@ -136,7 +136,7 @@
       }, 
       {
         "broker_count": 9, 
-        "count": 95, 
+        "count": 92, 
         "office": "Christchurch & South Island"
       }, 
       {
@@ -160,8 +160,8 @@
         "office": "Nelson"
       }, 
       {
-        "broker_count": 2, 
-        "count": 7, 
+        "broker_count": 1, 
+        "count": 6, 
         "office": "Northland"
       }, 
       {
@@ -184,37 +184,37 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "49.99"
+      "rate": "49.86"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "34.36"
+      "rate": "34.29"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "32.16"
+      "rate": "32.09"
     }
   ], 
   "nz_list": [
-    1327, 
-    4295, 
-    30.89639115250291, 
-    103, 
-    15
+    1328, 
+    4296, 
+    30.91247672253259, 
+    102, 
+    18
   ], 
   "ph_list": [
-    210, 
-    210, 
+    211, 
+    211, 
     100.0, 
     33, 
-    0
+    1
   ], 
-  "update_date": "2020-06-30, 00:18", 
+  "update_date": "2020-06-30, 14:18", 
   "us_list": [
-    449, 
-    854, 
-    52.576112412177984, 
-    80, 
-    3
+    448, 
+    853, 
+    52.52051582649472, 
+    79, 
+    2
   ]
 }
