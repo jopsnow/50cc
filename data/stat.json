@@ -1,10 +1,10 @@
 {
   "au_list": [
-    1457, 
-    2726, 
-    53.44827586206897, 
+    1460, 
+    2729, 
+    53.49945034811286, 
     96, 
-    20
+    15
   ], 
   "biz_list": [
     [
@@ -15,7 +15,7 @@
       }, 
       {
         "broker_count": 21, 
-        "count": 127, 
+        "count": 126, 
         "office": "Manila-Ortigas Center"
       }
     ], 
@@ -47,7 +47,7 @@
       }, 
       {
         "broker_count": 9, 
-        "count": 18, 
+        "count": 17, 
         "office": "Pennsylvania East"
       }, 
       {
@@ -79,12 +79,12 @@
     [
       {
         "broker_count": 16, 
-        "count": 211, 
+        "count": 214, 
         "office": "Brisbane"
       }, 
       {
         "broker_count": 2, 
-        "count": 32, 
+        "count": 33, 
         "office": "Central Coast and Newcastle"
       }, 
       {
@@ -109,7 +109,7 @@
       }, 
       {
         "broker_count": 26, 
-        "count": 252, 
+        "count": 253, 
         "office": "Sydney"
       }, 
       {
@@ -121,17 +121,17 @@
     [
       {
         "broker_count": 42, 
-        "count": 453, 
+        "count": 452, 
         "office": "Auckland - Ellerslie"
       }, 
       {
         "broker_count": 15, 
-        "count": 444, 
+        "count": 445, 
         "office": "Auckland - North Shore"
       }, 
       {
         "broker_count": 15, 
-        "count": 131, 
+        "count": 129, 
         "office": "Bay of Plenty"
       }, 
       {
@@ -145,8 +145,8 @@
         "office": "Dunedin"
       }, 
       {
-        "broker_count": 8, 
-        "count": 70, 
+        "broker_count": 9, 
+        "count": 68, 
         "office": "Hawke's Bay & Central Plateau"
       }, 
       {
@@ -188,33 +188,33 @@
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "34.29"
+      "rate": "34.16"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "32.09"
+      "rate": "31.94"
     }
   ], 
   "nz_list": [
-    1328, 
-    4296, 
-    30.91247672253259, 
-    102, 
-    18
+    1324, 
+    4292, 
+    30.848089468779126, 
+    103, 
+    8
   ], 
   "ph_list": [
-    211, 
-    211, 
+    210, 
+    210, 
     100.0, 
     33, 
     1
   ], 
-  "update_date": "2020-06-30, 14:18", 
+  "update_date": "2020-07-01, 14:14", 
   "us_list": [
-    448, 
-    853, 
-    52.52051582649472, 
+    447, 
+    852, 
+    52.46478873239437, 
     79, 
-    2
+    0
   ]
 }
