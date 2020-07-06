@@ -1,10 +1,10 @@
 {
   "au_list": [
-    1460, 
-    2729, 
-    53.49945034811286, 
-    96, 
-    15
+    1465, 
+    2734, 
+    53.5844915874177, 
+    97, 
+    26
   ], 
   "biz_list": [
     [
@@ -67,34 +67,34 @@
       }, 
       {
         "broker_count": 12, 
-        "count": 77, 
+        "count": 81, 
         "office": "Silicon Valley"
       }, 
       {
         "broker_count": 12, 
-        "count": 31, 
+        "count": 32, 
         "office": "St Louis"
       }
     ], 
     [
       {
-        "broker_count": 16, 
+        "broker_count": 17, 
         "count": 214, 
         "office": "Brisbane"
       }, 
       {
         "broker_count": 2, 
-        "count": 33, 
+        "count": 35, 
         "office": "Central Coast and Newcastle"
       }, 
       {
         "broker_count": 10, 
-        "count": 127, 
+        "count": 124, 
         "office": "Gold Coast"
       }, 
       {
         "broker_count": 31, 
-        "count": 785, 
+        "count": 786, 
         "office": "Melbourne (formerly KLEMMS)"
       }, 
       {
@@ -109,34 +109,34 @@
       }, 
       {
         "broker_count": 26, 
-        "count": 253, 
+        "count": 259, 
         "office": "Sydney"
       }, 
       {
         "broker_count": 6, 
-        "count": 26, 
+        "count": 27, 
         "office": "Tasmania"
       }
     ], 
     [
       {
-        "broker_count": 42, 
-        "count": 452, 
+        "broker_count": 43, 
+        "count": 451, 
         "office": "Auckland - Ellerslie"
       }, 
       {
         "broker_count": 15, 
-        "count": 445, 
+        "count": 416, 
         "office": "Auckland - North Shore"
       }, 
       {
-        "broker_count": 15, 
+        "broker_count": 16, 
         "count": 129, 
         "office": "Bay of Plenty"
       }, 
       {
         "broker_count": 9, 
-        "count": 92, 
+        "count": 91, 
         "office": "Christchurch & South Island"
       }, 
       {
@@ -146,7 +146,7 @@
       }, 
       {
         "broker_count": 9, 
-        "count": 68, 
+        "count": 69, 
         "office": "Hawke's Bay & Central Plateau"
       }, 
       {
@@ -171,12 +171,12 @@
       }, 
       {
         "broker_count": 6, 
-        "count": 71, 
+        "count": 72, 
         "office": "Waikato"
       }, 
       {
         "broker_count": 6, 
-        "count": 52, 
+        "count": 55, 
         "office": "Wellington"
       }
     ]
@@ -184,23 +184,23 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "49.86"
+      "rate": "49.48"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "34.16"
+      "rate": "34.33"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "31.94"
+      "rate": "32.28"
     }
   ], 
   "nz_list": [
-    1324, 
-    4292, 
-    30.848089468779126, 
-    103, 
-    8
+    1298, 
+    4265, 
+    30.433763188745605, 
+    105, 
+    12
   ], 
   "ph_list": [
     210, 
@@ -209,12 +209,12 @@
     33, 
     1
   ], 
-  "update_date": "2020-07-02, 14:14", 
+  "update_date": "2020-07-06, 11:58", 
   "us_list": [
-    447, 
-    852, 
-    52.46478873239437, 
+    452, 
+    857, 
+    52.742123687281214, 
     79, 
-    0
+    5
   ]
 }
