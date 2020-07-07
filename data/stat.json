@@ -1,20 +1,20 @@
 {
   "au_list": [
-    1465, 
-    2734, 
-    53.5844915874177, 
+    1471, 
+    2741, 
+    53.666545056548706, 
     97, 
-    26
+    31
   ], 
   "biz_list": [
     [
       {
-        "broker_count": 12, 
-        "count": 44, 
+        "broker_count": 11, 
+        "count": 46, 
         "office": "Alabang"
       }, 
       {
-        "broker_count": 21, 
+        "broker_count": 22, 
         "count": 126, 
         "office": "Manila-Ortigas Center"
       }
@@ -37,7 +37,7 @@
       }, 
       {
         "broker_count": 29, 
-        "count": 245, 
+        "count": 244, 
         "office": "Los Angeles"
       }, 
       {
@@ -67,19 +67,19 @@
       }, 
       {
         "broker_count": 12, 
-        "count": 81, 
+        "count": 80, 
         "office": "Silicon Valley"
       }, 
       {
         "broker_count": 12, 
-        "count": 32, 
+        "count": 31, 
         "office": "St Louis"
       }
     ], 
     [
       {
         "broker_count": 17, 
-        "count": 214, 
+        "count": 219, 
         "office": "Brisbane"
       }, 
       {
@@ -89,12 +89,12 @@
       }, 
       {
         "broker_count": 10, 
-        "count": 124, 
+        "count": 126, 
         "office": "Gold Coast"
       }, 
       {
         "broker_count": 31, 
-        "count": 786, 
+        "count": 787, 
         "office": "Melbourne (formerly KLEMMS)"
       }, 
       {
@@ -109,7 +109,7 @@
       }, 
       {
         "broker_count": 26, 
-        "count": 259, 
+        "count": 257, 
         "office": "Sydney"
       }, 
       {
@@ -121,12 +121,12 @@
     [
       {
         "broker_count": 43, 
-        "count": 451, 
+        "count": 450, 
         "office": "Auckland - Ellerslie"
       }, 
       {
         "broker_count": 15, 
-        "count": 416, 
+        "count": 401, 
         "office": "Auckland - North Shore"
       }, 
       {
@@ -171,7 +171,7 @@
       }, 
       {
         "broker_count": 6, 
-        "count": 72, 
+        "count": 71, 
         "office": "Waikato"
       }, 
       {
@@ -184,36 +184,36 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "49.48"
+      "rate": "49.33"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "34.33"
+      "rate": "34.42"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "32.28"
+      "rate": "32.31"
     }
   ], 
   "nz_list": [
-    1298, 
-    4265, 
-    30.433763188745605, 
+    1281, 
+    4249, 
+    30.14827018121911, 
     105, 
-    12
+    13
   ], 
   "ph_list": [
-    210, 
-    210, 
+    212, 
+    212, 
     100.0, 
     33, 
-    1
+    3
   ], 
-  "update_date": "2020-07-06, 11:58", 
+  "update_date": "2020-07-07, 19:24", 
   "us_list": [
-    452, 
-    857, 
-    52.742123687281214, 
+    449, 
+    854, 
+    52.576112412177984, 
     79, 
     5
   ]
