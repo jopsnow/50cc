@@ -4,13 +4,13 @@
     2741, 
     53.666545056548706, 
     97, 
-    13
+    0
   ], 
   "biz_list": [
     [
       {
         "broker_count": 11, 
-        "count": 47, 
+        "count": 48, 
         "office": "Alabang"
       }, 
       {
@@ -184,15 +184,15 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "49.51"
+      "rate": "49.53"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "34.37"
+      "rate": "34.42"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "32.38"
+      "rate": "32.43"
     }
   ], 
   "nz_list": [
@@ -200,16 +200,16 @@
     4249, 
     30.14827018121911, 
     105, 
-    4
+    0
   ], 
   "ph_list": [
-    214, 
-    214, 
+    215, 
+    215, 
     100.0, 
     33, 
-    4
+    3
   ], 
-  "update_date": "2020-07-08, 19:47", 
+  "update_date": "2020-07-09, 16:04", 
   "us_list": [
     449, 
     854, 
