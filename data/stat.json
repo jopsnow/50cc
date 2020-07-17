@@ -15,7 +15,7 @@
       }, 
       {
         "broker_count": 22, 
-        "count": 130, 
+        "count": 132, 
         "office": "Manila-Ortigas Center"
       }
     ], 
@@ -203,13 +203,13 @@
     0
   ], 
   "ph_list": [
-    220, 
-    220, 
+    222, 
+    222, 
     100.0, 
     33, 
-    2
+    4
   ], 
-  "update_date": "2020-07-17, 12:59", 
+  "update_date": "2020-07-17, 16:04", 
   "us_list": [
     449, 
     854, 
