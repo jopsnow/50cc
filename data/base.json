@@ -1,1 +1,220 @@
-
+{
+  "au_list": [
+    1471, 
+    2741, 
+    53.666545056548706, 
+    97, 
+    0
+  ], 
+  "biz_list": [
+    [
+      {
+        "broker_count": 13, 
+        "count": 56, 
+        "office": "Alabang"
+      }, 
+      {
+        "broker_count": 24, 
+        "count": 131, 
+        "office": "Manila-Ortigas Center"
+      }
+    ], 
+    [
+      {
+        "broker_count": 7, 
+        "count": 21, 
+        "office": "Dallas"
+      }, 
+      {
+        "broker_count": 1, 
+        "count": 4, 
+        "office": "Fort Worth"
+      }, 
+      {
+        "broker_count": 1, 
+        "count": 0, 
+        "office": "Idaho"
+      }, 
+      {
+        "broker_count": 29, 
+        "count": 244, 
+        "office": "Los Angeles"
+      }, 
+      {
+        "broker_count": 1, 
+        "count": 32, 
+        "office": "New York City"
+      }, 
+      {
+        "broker_count": 9, 
+        "count": 17, 
+        "office": "Pennsylvania East"
+      }, 
+      {
+        "broker_count": 0, 
+        "count": 0, 
+        "office": "Phoenix"
+      }, 
+      {
+        "broker_count": 0, 
+        "count": 0, 
+        "office": "Raleigh"
+      }, 
+      {
+        "broker_count": 7, 
+        "count": 16, 
+        "office": "San Diego"
+      }, 
+      {
+        "broker_count": 12, 
+        "count": 80, 
+        "office": "Silicon Valley"
+      }, 
+      {
+        "broker_count": 12, 
+        "count": 31, 
+        "office": "St Louis"
+      }
+    ], 
+    [
+      {
+        "broker_count": 17, 
+        "count": 219, 
+        "office": "Brisbane"
+      }, 
+      {
+        "broker_count": 2, 
+        "count": 35, 
+        "office": "Central Coast and Newcastle"
+      }, 
+      {
+        "broker_count": 10, 
+        "count": 126, 
+        "office": "Gold Coast"
+      }, 
+      {
+        "broker_count": 31, 
+        "count": 787, 
+        "office": "Melbourne (formerly KLEMMS)"
+      }, 
+      {
+        "broker_count": 0, 
+        "count": 0, 
+        "office": "North Queensland"
+      }, 
+      {
+        "broker_count": 5, 
+        "count": 32, 
+        "office": "Sunshine Coast"
+      }, 
+      {
+        "broker_count": 26, 
+        "count": 257, 
+        "office": "Sydney"
+      }, 
+      {
+        "broker_count": 6, 
+        "count": 27, 
+        "office": "Tasmania"
+      }
+    ], 
+    [
+      {
+        "broker_count": 43, 
+        "count": 450, 
+        "office": "Auckland - Ellerslie"
+      }, 
+      {
+        "broker_count": 15, 
+        "count": 401, 
+        "office": "Auckland - North Shore"
+      }, 
+      {
+        "broker_count": 16, 
+        "count": 129, 
+        "office": "Bay of Plenty"
+      }, 
+      {
+        "broker_count": 9, 
+        "count": 91, 
+        "office": "Christchurch & South Island"
+      }, 
+      {
+        "broker_count": 0, 
+        "count": 0, 
+        "office": "Dunedin"
+      }, 
+      {
+        "broker_count": 9, 
+        "count": 69, 
+        "office": "Hawke's Bay & Central Plateau"
+      }, 
+      {
+        "broker_count": 0, 
+        "count": 0, 
+        "office": "LINK Enterprise"
+      }, 
+      {
+        "broker_count": 0, 
+        "count": 0, 
+        "office": "Nelson"
+      }, 
+      {
+        "broker_count": 1, 
+        "count": 6, 
+        "office": "Northland"
+      }, 
+      {
+        "broker_count": 0, 
+        "count": 0, 
+        "office": "Queenstown Lakes"
+      }, 
+      {
+        "broker_count": 6, 
+        "count": 71, 
+        "office": "Waikato"
+      }, 
+      {
+        "broker_count": 6, 
+        "count": 55, 
+        "office": "Wellington"
+      }
+    ]
+  ], 
+  "currency_rates": [
+    {
+      "currencies": "aud/php", 
+      "rate": "49.12"
+    }, 
+    {
+      "currencies": "usd/php", 
+      "rate": "35.07"
+    }, 
+    {
+      "currencies": "nzd/php", 
+      "rate": "32.54"
+    }
+  ], 
+  "nz_list": [
+    1281, 
+    4249, 
+    30.14827018121911, 
+    105, 
+    0
+  ], 
+  "ph_list": [
+    221, 
+    221, 
+    100.0, 
+    37, 
+    1
+  ], 
+  "update_date": "2020-07-31, 15:12", 
+  "us_list": [
+    449, 
+    854, 
+    52.576112412177984, 
+    79, 
+    0
+  ]
+}
