@@ -186,15 +186,15 @@
   "currency_rates": [
      {
       "currencies": "aud/php", 
-      "rate": "49.1"
+      "rate": "49.11"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "34.88"
+      "rate": "35.03"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "32.53"
+      "rate": "32.44"
     }
   ], 
   "nz_list": [
