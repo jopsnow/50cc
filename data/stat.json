@@ -184,17 +184,17 @@
     ]
   ], 
   "currency_rates": [
-    {
+   {
       "currencies": "aud/php", 
-      "rate": "48.71"
+      "rate": "48.57"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "34.86"
+      "rate": "34.98"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "31.77"
+      "rate": "31.86"
     }
   ], 
   "nz_list": [
@@ -215,7 +215,7 @@
     5, 
     4
   ], 
-  "update_date": "2020-08-26, 15:00", 
+  "update_date": "2020-08-27, 15:01", 
   "us_list": [
     449, 
     854, 
