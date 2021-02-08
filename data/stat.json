@@ -1,12 +1,12 @@
 {
   "au_list": [
-    1319, 
-    2764, 
-    47.72069464544139, 
+    1332, 
+    2781, 
+    47.896440129449836, 
     95, 
-    2764, 
-    0, 
-    1445
+    2799, 
+    18, 
+    1449
   ], 
   "biz_list": [
     [
@@ -49,7 +49,7 @@
       }, 
       {
         "broker_count": 10, 
-        "count": 19, 
+        "count": 20, 
         "office": "Pennsylvania East"
       }, 
       {
@@ -81,7 +81,7 @@
     [
       {
         "broker_count": 15, 
-        "count": 167, 
+        "count": 171, 
         "office": "Brisbane"
       }, 
       {
@@ -91,12 +91,12 @@
       }, 
       {
         "broker_count": 9, 
-        "count": 110, 
+        "count": 111, 
         "office": "Gold Coast"
       }, 
       {
         "broker_count": 29, 
-        "count": 700, 
+        "count": 716, 
         "office": "Melbourne (formerly KLEMMS)"
       }, 
       {
@@ -106,24 +106,24 @@
       }, 
       {
         "broker_count": 5, 
-        "count": 28, 
+        "count": 29, 
         "office": "Sunshine Coast"
       }, 
       {
         "broker_count": 28, 
-        "count": 261, 
+        "count": 270, 
         "office": "Sydney"
       }, 
       {
         "broker_count": 6, 
-        "count": 34, 
+        "count": 36, 
         "office": "Tasmania"
       }
     ], 
     [
       {
-        "broker_count": 38, 
-        "count": 360, 
+        "broker_count": 39, 
+        "count": 370, 
         "office": "Auckland - Ellerslie"
       }, 
       {
@@ -133,7 +133,7 @@
       }, 
       {
         "broker_count": 18, 
-        "count": 133, 
+        "count": 135, 
         "office": "Bay of Plenty"
       }, 
       {
@@ -198,13 +198,13 @@
     }
   ], 
   "nz_list": [
-    932, 
-    4096, 
-    22.75390625, 
-    100, 
-    4096, 
-    0, 
-    3164
+    928, 
+    4101, 
+    22.628627164106316, 
+    101, 
+    4110, 
+    9, 
+    3173
   ], 
   "ph_list": [
     210, 
@@ -215,14 +215,14 @@
     69, 
     8
   ], 
-  "update_date": "2021-02-08, 21:53", 
+  "update_date": "2021-02-08, 15:54", 
   "us_list": [
-    169, 
+    168, 
     589, 
-    28.69269949066214, 
+    28.522920203735143, 
     24, 
-    589, 
-    0, 
-    420
+    590, 
+    1, 
+    421
   ]
 }
