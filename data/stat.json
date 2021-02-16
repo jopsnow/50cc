@@ -1,12 +1,12 @@
 {
   "au_list": [
-    1332, 
-    2781, 
-    47.896440129449836, 
+    1317, 
+    2771, 
+    47.527968242511726, 
     95, 
-    2799, 
-    18, 
-    1449
+    57, 
+    50, 
+    1454
   ], 
   "biz_list": [
     [
@@ -81,7 +81,7 @@
     [
       {
         "broker_count": 15, 
-        "count": 171, 
+        "count": 173, 
         "office": "Brisbane"
       }, 
       {
@@ -96,7 +96,7 @@
       }, 
       {
         "broker_count": 29, 
-        "count": 716, 
+        "count": 726, 
         "office": "Melbourne (formerly KLEMMS)"
       }, 
       {
@@ -111,7 +111,7 @@
       }, 
       {
         "broker_count": 28, 
-        "count": 270, 
+        "count": 280, 
         "office": "Sydney"
       }, 
       {
@@ -123,22 +123,22 @@
     [
       {
         "broker_count": 39, 
-        "count": 370, 
+        "count": 389, 
         "office": "Auckland - Ellerslie"
       }, 
       {
         "broker_count": 13, 
-        "count": 238, 
+        "count": 240, 
         "office": "Auckland - North Shore"
       }, 
       {
-        "broker_count": 18, 
-        "count": 135, 
+        "broker_count": 19, 
+        "count": 141, 
         "office": "Bay of Plenty"
       }, 
       {
         "broker_count": 9, 
-        "count": 82, 
+        "count": 84, 
         "office": "Christchurch & South Island"
       }, 
       {
@@ -148,7 +148,7 @@
       }, 
       {
         "broker_count": 7, 
-        "count": 45, 
+        "count": 48, 
         "office": "Hawke's Bay & Central Plateau"
       }, 
       {
@@ -158,7 +158,7 @@
       }, 
       {
         "broker_count": 1, 
-        "count": 8, 
+        "count": 10, 
         "office": "Nelson"
       }, 
       {
@@ -173,12 +173,12 @@
       }, 
       {
         "broker_count": 6, 
-        "count": 62, 
+        "count": 64, 
         "office": "Waikato"
       }, 
       {
         "broker_count": 7, 
-        "count": 44, 
+        "count": 45, 
         "office": "Wellington"
       }
     ]
@@ -186,25 +186,25 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "48.1"
+      "rate": "47.93"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "36.57"
+      "rate": "37.26"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "34.36"
+      "rate": "34.64"
     }
   ], 
   "nz_list": [
-    928, 
-    4101, 
-    22.628627164106316, 
-    101, 
-    4110, 
-    9, 
-    3173
+    934, 
+    4117, 
+    22.686422152052465, 
+    102, 
+    54, 
+    33, 
+    3185
   ], 
   "ph_list": [
     210, 
@@ -217,12 +217,12 @@
   ], 
   "update_date": "2021-02-08, 15:54", 
   "us_list": [
-    168, 
-    589, 
-    28.522920203735143, 
+    152, 
+    573, 
+    26.527050610820243, 
     24, 
-    590, 
     1, 
+    17, 
     421
   ]
 }
