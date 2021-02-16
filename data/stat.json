@@ -12,12 +12,12 @@
     [
      {
         "broker_count": 13, 
-        "count": 80, 
+        "count": 81, 
         "office": "Alabang"
       }, 
       {
         "broker_count": 30, 
-        "count": 185, 
+        "count": 186, 
         "office": "Manila-Ortigas Center"
       }
     ], 
@@ -207,15 +207,15 @@
     3185
   ], 
   "ph_list": [
-    210, 
-    218, 
-    96.3302752293578, 
+    192, 
+    200, 
+    96.0, 
     43, 
-    5, 
-    69, 
+    2, 
+    88, 
     8
   ], 
-  "update_date": "2021-02-08, 15:54", 
+  "update_date": "2021-02-16, 12:45", 
   "us_list": [
     152, 
     573, 
