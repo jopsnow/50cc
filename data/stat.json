@@ -17,7 +17,7 @@
       }, 
       {
         "broker_count": 30, 
-        "count": 192, 
+        "count": 193, 
         "office": "Manila-Ortigas Center"
       }
     ], 
@@ -186,15 +186,15 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "48.47"
+      "rate": "48.59"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "37.09"
+      "rate": "36.82"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "33.99"
+      "rate": "33.96"
     }
   ], 
   "nz_list": [
@@ -212,10 +212,10 @@
     95.76719576719577, 
     43, 
     4, 
-    104, 
+    105, 
     8
   ], 
-  "update_date": "2021-03-30, 10:28", 
+  "update_date": "2021-04-06, 15:50", 
   "us_list": [
     152, 
     573, 
