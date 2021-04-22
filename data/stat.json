@@ -12,7 +12,7 @@
     [
       {
         "broker_count": 13, 
-        "count": 84, 
+        "count": 85, 
         "office": "Alabang"
       }, 
       {
@@ -186,15 +186,15 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "48.39"
+      "rate": "48.43"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "37.52"
+      "rate": "37.38"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "34.68"
+      "rate": "34.76"
     }
   ], 
   "nz_list": [
@@ -207,15 +207,15 @@
     3185
   ], 
   "ph_list": [
-    168, 
-    176, 
-    95.45454545454545, 
+    169, 
+    177, 
+    95.48022598870057, 
     45, 
-    2, 
+    1, 
     122, 
     8
   ], 
-  "update_date": "2021-04-19, 14:53", 
+  "update_date": "2021-04-22, 16:26", 
   "us_list": [
     152, 
     573, 
