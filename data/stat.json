@@ -10,14 +10,14 @@
   ], 
   "biz_list": [
     [
-       {
+      {
         "broker_count": 14, 
         "count": 86, 
         "office": "Alabang"
       }, 
       {
         "broker_count": 32, 
-        "count": 198, 
+        "count": 199, 
         "office": "Manila-Ortigas Center"
       }
     ], 
@@ -186,15 +186,15 @@
   "currency_rates": [
     {
       "currencies": "aud/php", 
-      "rate": "47.89"
+      "rate": "47.93"
     }, 
     {
       "currencies": "usd/php", 
-      "rate": "37.2"
+      "rate": "36.94"
     }, 
     {
       "currencies": "nzd/php", 
-      "rate": "34.52"
+      "rate": "34.29"
     }
   ], 
   "nz_list": [
@@ -211,11 +211,11 @@
     179, 
     95.53072625698324, 
     46, 
-    3, 
-    123, 
+    2, 
+    124, 
     8
   ], 
-  "update_date": "2021-05-12, 13:33", 
+  "update_date": "2021-05-14, 11:19", 
   "us_list": [
     152, 
     573, 
